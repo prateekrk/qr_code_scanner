@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 A new Flutter project.
                        DESC
-  s.homepage         = 'https://github.com/juliuscanute/qr_code_scanner'
+  s.homepage         = 'https://github.com/prateekrk/qr_code_scanner'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'juliuscanute[*]touchcapture.net' }
   s.source           = { :path => '.' }
