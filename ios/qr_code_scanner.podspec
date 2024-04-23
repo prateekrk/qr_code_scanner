@@ -16,7 +16,7 @@ A new Flutter project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'MTBBarcodeScanner', :git=> 'https://github.com/prateekrk/MTBBarcodeScanner'
+  s.dependency = 'MTBBarcodeScanner', :git=> 'https://github.com/prateekrk/MTBBarcodeScanner'
   s.resource_bundles = {'permission_handler_apple_privacy' => ['Resources/PrivacyInfo.xcprivacy']}
   s.ios.deployment_target = '8.0'
   s.swift_version = '4.0'
